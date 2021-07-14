@@ -17,8 +17,10 @@
 		"scrollbarSlider.hoverBackground": "#EA00D997",
 		"scrollbarSlider.activeBackground": "#EA00D997",
 		"editorCursor.foreground": "#00FF9F",
-		"editor.selectionHighlightBackground": "#d2ce8460",
-		"editor.selectionBackground": "#d2ce8460",
+		"editor.selectionHighlightBackground": "#d2ce843b",
+		"editor.selectionBackground": "#00ff9d6c",
+		"editor.selectionBorder": "#00ff9d6c",
+
 		"editor.findMatchBackground": "#d2ce8460",
 		"editor.findMatchBorder": "#d2ce8460",
 		"editor.findMatchHighlightBorder": "#d2ce8460",
@@ -41,10 +43,9 @@
 		"editorHoverWidget.border": "#00ff9dee",
 		"editorHoverWidget.background": "#00110bf6",
 		"editorHoverWidget.foreground": "#00ff9dde",
-		"editorSuggestWidget.selectedForeground": "#00ff9d44",
-		"editorSuggestWidget.selectedBackground": "#00ff9db6",
-		"editorSuggestWidget.highlightForeground": "#cb0cabd7",
-		"editorSuggestWidget.focusHighlightForeground": "#00ff9d8a",
+		"editorSuggestWidget.selectedForeground": "#00ff9dd2",
+		"editorSuggestWidget.selectedBackground": "#cb0cab6e",
+		"editorSuggestWidget.focusHighlightForeground": "#cb0cab6e",
 		"editorSuggestWidget.foreground": "#00ff9dd2",
 		"editorSuggestWidget.background": "#00110bf6",
 		"widget.shadow": "#00ff9de7",
@@ -243,7 +244,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#EA00D9"
+				"foreground": "#f1288c"
 			}
 		},
 		{
@@ -254,6 +255,15 @@
 			],
 			"settings": {
 				"foreground": "#EA00D9"
+			}
+		},
+		{
+			"name": "variable.other.property",
+			"scope": [
+				"variable.other.property",
+			],
+			"settings": {
+				"foreground": "#ea9800"
 			}
 		},
 		{
