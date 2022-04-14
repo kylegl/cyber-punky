@@ -3,7 +3,7 @@
     "displayName": "cyber-punky",
     "publisher": "cyberpunky",
     "description": "",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "engines": {
         "vscode": "^1.58.0"
     },
