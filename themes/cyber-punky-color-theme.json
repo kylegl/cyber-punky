@@ -19,7 +19,6 @@
 		"editorCursor.foreground": "#00FF9F",
 		"editor.selectionHighlightBackground": "#d2ce843b",
 		"editor.selectionBackground": "#00ff9d6c",
-		"editor.selectionBorder": "#00ff9d6c",
 
 		"editor.findMatchBackground": "#d2ce8460",
 		"editor.findMatchBorder": "#d2ce8460",
