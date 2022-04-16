@@ -89,7 +89,7 @@
 		"tab.inactiveBackground": "#0185524f",
 		"tab.inactiveForeground": "#00FF9F",    
 		"tab.unfocusedActiveForeground": "#00FF9F",
-		"tab.unfocusedActiveBackground": "#bf28da",    
+		"tab.unfocusedActiveBackground": "#bf28dace",    
 		"tab.unfocusedInactiveForeground": "#00FF9F",
 		"tab.unfocusedInactiveBackground": "#cb0cab3a",
 		"tab.border": "#00ff9d93",
