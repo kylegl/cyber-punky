@@ -83,20 +83,22 @@
 		"editorGroupHeader.tabsBackground": "#3700419a",
 		"editorGroupHeader.tabsBorder": "#00FF9F",
 
-
-		"tab.inactiveBackground": "#018552b6",
-		"tab.activeBackground": "#018552d0",
-		"tab.activeForeground": "#9802b3fa",
-		"tab.border": "#00ff9d93",
-		"tab.unfocusedActiveForeground": "#018552b6",
-		"tab.unfocusedActiveBackground": "#bf28da",
-		"tab.inactiveForeground": "#9802b3e0",
 		"tab.activeBorderTop": "#00FF9F",
-		"tab.unfocusedInactiveForeground": "#018552d0",
+		"tab.activeBackground": "#018552d0",
+		"tab.activeForeground": "#00FF9F",
+		"tab.unfocusedActiveForeground": "#00FF9F",
+		"tab.unfocusedActiveBackground": "#bf28da",    
+		"tab.inactiveBackground": "#018552b6",
+		"tab.inactiveForeground": "#00FF9F",
+		"tab.unfocusedInactiveForeground": "#00FF9F",
 		"tab.unfocusedInactiveBackground": "#cb0cab3a",
+		"tab.border": "#00ff9d93",
+
+
+
+
 
 		"dropdown.listBackground": "#00160e",
-
     "dropdown.background": "#00160e",
     "dropdown.foreground": "#00FF9F",
     "dropdown.border": "#00FF9F",
