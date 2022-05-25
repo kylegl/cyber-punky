@@ -1,2 +1,2 @@
 # README
-Cyber punk theme
+VS Code Cyber punk theme
